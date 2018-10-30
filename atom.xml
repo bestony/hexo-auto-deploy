@@ -3,11 +3,11 @@
   <title>Inkerk</title>
   
   <subtitle>硬核区块链</subtitle>
-  <link href="/hexo-auto-deploy/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="https://bestony.github.io/hexo-auto-deploy/"/>
-  <updated>2018-10-30T13:07:31.234Z</updated>
-  <id>https://bestony.github.io/hexo-auto-deploy/</id>
+  <link href="http://yoursite.com/"/>
+  <updated>2018-10-30T13:07:48.663Z</updated>
+  <id>http://yoursite.com/</id>
   
   <author>
     <name>Inkerk Inc</name>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://bestony.github.io/hexo-auto-deploy/2018/10/30/hello-world/"/>
-    <id>https://bestony.github.io/hexo-auto-deploy/2018/10/30/hello-world/</id>
-    <published>2018-10-30T13:07:31.234Z</published>
-    <updated>2018-10-30T13:07:31.234Z</updated>
+    <link href="http://yoursite.com/2018/10/30/hello-world/"/>
+    <id>http://yoursite.com/2018/10/30/hello-world/</id>
+    <published>2018-10-30T13:07:48.663Z</published>
+    <updated>2018-10-30T13:07:48.663Z</updated>
     
     <summary type="html">
     
